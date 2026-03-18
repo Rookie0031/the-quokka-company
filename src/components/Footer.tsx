@@ -9,7 +9,7 @@ export default function Footer() {
                 Q
               </div>
               <span className="text-lg font-bold text-white">
-                The Quokka Company
+                더쿼카 컴퍼니
               </span>
             </div>
             <p className="mt-3 text-sm text-slate-400">
@@ -18,15 +18,13 @@ export default function Footer() {
           </div>
 
           <div className="flex flex-col items-center gap-1 text-sm text-slate-400 md:items-end">
-            <p>사업자등록번호: 000-00-00000</p>
-            <p>대표: 장지수 | 정보통신업</p>
-            <p>이메일: hello@thequokka.co</p>
+            <p>스타트업의 클라우드 파트너</p>
           </div>
         </div>
 
         <div className="mt-8 border-t border-slate-700 pt-8 text-center">
           <p className="text-xs text-slate-500">
-            &copy; {new Date().getFullYear()} The Quokka Company. All rights
+            &copy; {new Date().getFullYear()} 더쿼카 컴퍼니. All rights
             reserved.
           </p>
         </div>

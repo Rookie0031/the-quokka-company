@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "The Quokka Company | 스타트업 클라우드 아키텍처 & 교육 컨설팅",
+  title: "더쿼카 컴퍼니 | 스타트업 클라우드 아키텍처 & 교육 컨설팅",
   description:
     "스타트업의 규모와 단계에 맞는 최적의 클라우드 아키텍처를 설계하고, 팀의 클라우드 역량을 성장시킵니다. AWS, GCP 전문 컨설팅.",
   keywords: [
@@ -25,12 +25,12 @@ export const metadata: Metadata = {
     "클라우드 마이그레이션",
   ],
   openGraph: {
-    title: "The Quokka Company | 스타트업 클라우드 아키텍처 & 교육 컨설팅",
+    title: "더쿼카 컴퍼니 | 스타트업 클라우드 아키텍처 & 교육 컨설팅",
     description:
       "스타트업의 규모와 단계에 맞는 최적의 클라우드 아키텍처를 설계하고, 팀의 클라우드 역량을 성장시킵니다.",
     type: "website",
     locale: "ko_KR",
-    siteName: "The Quokka Company",
+    siteName: "더쿼카 컴퍼니",
   },
   robots: {
     index: true,

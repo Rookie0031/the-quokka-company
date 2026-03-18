@@ -33,7 +33,7 @@ export default function Header() {
             Q
           </div>
           <span className="text-lg font-bold text-primary">
-            The Quokka Company
+            더쿼카 컴퍼니
           </span>
         </a>
 

@@ -58,7 +58,7 @@ export default function WhyMeSection() {
             Why Us
           </span>
           <h2 className="mt-3 text-3xl font-bold text-primary md:text-4xl">
-            왜 The Quokka Company인가
+            왜 더쿼카 컴퍼니인가
           </h2>
           <p className="mt-4 text-text-secondary">
             대형 컨설팅펌이 아닌, 스타트업 전문 파트너를 선택해야 하는 이유
