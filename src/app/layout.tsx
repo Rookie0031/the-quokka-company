@@ -24,6 +24,9 @@ export const metadata: Metadata = {
     "Terraform",
     "클라우드 마이그레이션",
   ],
+  verification: {
+    google: "JZU5mSrYV7P4K00ffZXF_0FQlCDWcJ04MTgUaLbTZjc"
+  },
   openGraph: {
     title: "더쿼카 컴퍼니 | 스타트업 클라우드 아키텍처 & 교육 컨설팅",
     description:
